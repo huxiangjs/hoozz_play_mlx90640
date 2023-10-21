@@ -19,6 +19,10 @@
 ### Physical:
 ![physical](Images/mlx90640-pcb-physical.png)
 
+### Shell 3D:
+![shell-3d](Images/mlx90640-shell-3d.png)
+![shell](Images/mlx90640-shell.png)
+
 ## MCU
 
 * Chip: GD32F350G8U6TR
